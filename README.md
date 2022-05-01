@@ -6,3 +6,5 @@ The dataset can be retrieved from the following link: https://courses.ms.wits.ac
 
 
 Mpendulo - Converted the date_fueled column into the correct format and replaced the invalid dates into 'NaT' values. Struggled to convert the date_fueled column into a datetime datatype, still need to that.
+
+Mpendulo - Completed cleaning the data fields, i.e converted them to their respective dtypes (i.e datetime), Grouped dates by Year, month and day then added visualiser in the form of a horizontal bar graph to illustrate the distribution of the dates. Wrote a conclusion on the for the date_fueled column. Still have to write the conclusion for the date_captured column.
